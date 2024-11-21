@@ -1,0 +1,57 @@
+body
+{
+  /* display: flex; */
+  text-align: center;
+  /* justify-content: center; */
+  color:white;
+  /* background-image: url("giphy.webp");
+  background-size: cover; */
+  font-family: Orbitron;
+}
+
+
+
+#logo
+{
+  width: 100px;
+  border-radius: 50px;
+}
+
+
+#coverText
+{
+ background-image:url("giphy.webp") ;
+ background-size: cover;
+ padding: 10px 0 100px 0;
+
+  
+}
+
+.header
+{
+  margin-top: 5px;
+  border-bottom: 5px solid white;
+}
+
+.Apply
+{
+  padding: 6px 15px;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  border-radius: 15px;
+  font-family: inherit;
+}
+
+.text
+{
+  color:black;
+}
+
+/*If we have 
+outside dont then do this:  */
+
+/* @font-face {
+  src: url("Corleone.ttf");
+  font-family:Corltone ;
+} */
